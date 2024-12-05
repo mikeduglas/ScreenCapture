@@ -9,6 +9,10 @@ This template lets the user select a screen or portion of a screen (such as a wi
 - Copy ScreenCaptureTemplate.html file to the app folder.
 - Build and run the application.
 
+### Features
+- A user can start, pause, resume, stop record.
+- Recording an audio from a system speaker or a microphone is available.
+
 ### Requirements
 - C6.3 and higher
 - ABC and Clarion template chains
