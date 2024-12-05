@@ -6,7 +6,10 @@ This template lets the user select a screen or portion of a screen (such as a wi
 - Add Screen Capture global extension.
 - Add WINDOW procedure.
 - Drop ScreenCaptureControls control template on to the window.
+- Copy ScreenCaptureTemplate.html file to the app folder.
 - Build and run the application.
+
+See [this short video](https://github.com/mikeduglas/ScreenCapture/blob/master/ScreenCapture.mp4). I'm very sorry for my English.
 
 ### Requirements
 - C6.3 and higher
