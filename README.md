@@ -2,6 +2,10 @@
 Screen Capture is a Clarion class and template implemented as a plug-in for the [Easy Edge (Chromium)](http://www.ingasoftplus.com/ProductDetail.php?ProductID=304) template.  
 This template lets the user select a screen or portion of a screen (such as a window) to capture as a media stream. This stream can then be recorded or (todo) shared with others over the network.
 
+### The demo program
+https://www.dropbox.com/scl/fi/oyrzzhcl58fknfyh8p73h/school_with_screencapture.zip?rlkey=8deps1erdlcjhe3ppl4fd744n&st=ymdvtzpm&dl=0
+Select "Tools->Screen capture" item to open Screen capture window, then press Start.
+
 ### Usage
 - Add Screen Capture global extension.
 - Add WINDOW procedure.
